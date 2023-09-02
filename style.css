@@ -31,7 +31,7 @@
   header {
     display: table;
     padding: 2em 5%;
-    background-image: url('../assets/images/gdk.jpg');
+    background-image: url('./assets/images/gdk.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     color: #19181f;
@@ -191,7 +191,7 @@
 
   .cardOne {
     flex: 1;
-    background-image: url('../assets/images/39.png');
+    background-image: url('./assets/images/39.png');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -202,7 +202,7 @@
 
   .cardTwo {
     flex: 1;
-    background-image: url('../assets/images/flats.png');
+    background-image: url('./assets/images/flats.png');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
@@ -213,7 +213,7 @@
 
   .cardThree {
     flex: 1;
-    background-image: url('../assets/images/forest.png');
+    background-image: url('./assets/images/forest.png');
     background-position: center; 
     background-repeat: no-repeat;
     background-size: cover;
